@@ -1,0 +1,1 @@
+alert('Clicl ok if you like my webpage')
